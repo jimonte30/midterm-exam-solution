@@ -1,5 +1,3 @@
-// question2.js
-
 // Declaring function delayedGreeting with a parameter name to delay
 // the greeting message by 2 seconds
 function delayedGreeting(name) {
