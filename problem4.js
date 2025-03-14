@@ -1,4 +1,4 @@
-let tasks = []; // Simple in-memory database (array)
+let tasks = []; // Define an empty array to store tasks
 
 // Function to add a task
 function addTask(name, description) {
